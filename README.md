@@ -1,4 +1,3 @@
-# PA-A24-KELOMPOK8
 # Project Akhir DASPRO - A24 - KELOMPOK 8
 # Anggota Kelompok
 1. Hendri Zaidan (2409116013)
