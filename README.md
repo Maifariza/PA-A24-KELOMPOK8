@@ -8,6 +8,9 @@ Sistem Informasi-A 2024
 2. Najmi Hafizh Mauludan Zain (2409116028)
 3. Maifariza Aulia Dyas (2409116032)
 
+# Flowchart
+
+
 # Menu Login atau Sign Up
 ![Screenshot (164)](https://github.com/user-attachments/assets/30df4070-5d49-42b0-9a7f-c556b166da81)
 
@@ -55,6 +58,9 @@ Setelah proses sign up berhasil dilakukan, dengan otomatis akan menampilkan outp
 
 Pada opsi 1, tamu bisa melihat daftar kamar yang ada di hotel dengan keterangan Nomor kamar, Tipe, Fasilitas, serta Harga/Malam nya.
 
+![Screenshot (202)](https://github.com/user-attachments/assets/d03a3149-d54c-47e5-912a-1a720e70e77a)
+
+
 # Jika memilih opsi 2 maka akan diarahkan ke Buat Reservasi
 
 
@@ -85,6 +91,9 @@ Akan menampilkan output bahwa jumlah top up harus lebih dari 0 dan setelah itu d
 
 # Jika memilih opsi 7 maka akan diarahkan ke Cek Informasi Akun
 
+![Screenshot (205)](https://github.com/user-attachments/assets/229e9718-be97-4892-8661-2c0b89123f36)
+
+Pada opsi ini tamu akan melihat informasi tentang akun mereka seperti Nama Panjang, Username, PIN, serta No.Hp yang terismpan.
 
 # Jika memilih opsi 8 maka akan diarahkan ke Log Out
 ![Screenshot (189)](https://github.com/user-attachments/assets/1030ab3a-f98f-48eb-985e-3c4ca0c88185)
@@ -106,12 +115,18 @@ Pada opsi 8 ini tamu bisa melakukan Log Out dari program atau mulai kembali.
 
 # Tampilan Mode Read pada Admin (Insert Fitur Sorting dan Searching)
 
+![Screenshot (207)](https://github.com/user-attachments/assets/ea744330-5594-43ab-ab72-0a464abf8459)
 
-# Tampilan Mode Sorting
+* Tampilan Mode Sorting
+
+![Screenshot (210)](https://github.com/user-attachments/assets/fde9b712-b24d-4751-8e63-1f1d70deb061)
 
 
-# Tampilaan Mode Searching
+*Tampilaan Mode Searching
 
+![Screenshot (210)](https://github.com/user-attachments/assets/685d68b2-d0c5-4e78-b2ad-6ebcfcdcd063)
+
+Admin bisa melakukan searching akun dari tamu dengan memasukkan username yang ingin dicari. Setelah itu program menampilkan informasi akun yang dicari.
 
 # Tampilan Mode Update Kamar pada Admin
 ![Screenshot (194)](https://github.com/user-attachments/assets/3d1c700f-72bc-404b-bc36-4cd57fe1a332)
