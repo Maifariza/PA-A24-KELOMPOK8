@@ -33,7 +33,7 @@ Pada awal program, akan ditampilkan menu utama dengan melakukan Login atau Sign 
 
 ![Screenshot (165)](https://github.com/user-attachments/assets/50bf684e-7a5e-4cf4-b99f-396047fac8a8)
 
-Ketika user menginputkan Username "adminhotel" dan PIN "202921", maka user telah terdaftar sebagai admin. Setelah berhasil melakukan login, admin akan ditampilkan dengan menu fitur admin yang di menu fitur admin ini bisa melakukan proses CRUD (Create, Read, Update, Delete) data kamar, daftar reservasi, daftar akun, serta logout.
+Ketika user menginputkan Username "adminhotel" dan PIN "202921", maka user telah terdaftar sebagai admin. Setelah berhasil melakukan login, admin akan ditampilkan dengan menu fitur admin yang di menu fitur admin ini bisa melakukan proses CRUD (Create, Read, Update, Delete) data kamar, melihat daftar reservasi, melihat daftar akun, serta logout.
 
 # Jika Masuk dengan Username Tamu (Menu Fitur Tamu)
 ![Screenshot (170)](https://github.com/user-attachments/assets/376f2528-7f2a-4161-99d4-8f072a664707)
@@ -70,7 +70,7 @@ Setelah masuk ke menu fitur tamu, tamu dapat ketik opsi 1. Pada opsi 1, tamu bis
 # Jika memilih opsi 4 maka akan diarahkan ke Cek Saldo E Money
 ![Screenshot (174)](https://github.com/user-attachments/assets/3aa5b9eb-c767-4068-a3ce-29588803809d)
 
-Pada opsi 4, tamu bisa mengecek terlebih dahulu nominal saldo di E Money nya.
+Pada opsi 4, tamu bisa mengecek terlebih dahulu nominal saldo di E Money yang telah disimpan dalam database.
 
 # Jika memilih opsi 5 maka akan diarahkan ke Top Up Saldo
 ![Screenshot (175)](https://github.com/user-attachments/assets/73230227-4ec7-45a6-a063-314e2320ee09)
