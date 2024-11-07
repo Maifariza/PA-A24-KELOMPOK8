@@ -13,8 +13,10 @@ Sistem Informasi-A 2024
 
 Pada awal program, akan ditampilkan menu utama dengan melakukan Login atau Sign Up terlebih dahulu.
 1. Login (jika sudah punya akun)
-   Ketika user telah memiliki akun atau telah memasukkan Username dan PIN yang disimpan dalam database maka user ketik 1.
    
+   Ketika user telah memiliki akun atau telah memasukkan Username dan PIN yang disimpan dalam database maka user ketik 1.
+
+
    * Tampilan jika user salah menginputkan Username.
      
    ![Screenshot (181)](https://github.com/user-attachments/assets/0872ed26-68fb-44f8-abfd-a8ced5669e9f)
@@ -22,9 +24,11 @@ Pada awal program, akan ditampilkan menu utama dengan melakukan Login atau Sign 
    User diminta menginputkan Username kembali
    
 2. Sign Up (jika belum punya akun)
-   Jika user belum memiliki akun maka user menginputkan 2.
+   
+   Jika user belum memiliki akun maka user menginputkan 2 dan masuk ke menu sign up.
 
 # Jika Masuk dengan Username dan PIN "Admin" (Menu Fitur Admin)
+
 ![Screenshot (165)](https://github.com/user-attachments/assets/50bf684e-7a5e-4cf4-b99f-396047fac8a8)
 
 Ketika user menginputkan Username "adminhotel" dan PIN "202921", maka user telah terdaftar sebagai admin. Setelah berhasil melakukan login, admin akan ditampilkan dengan menu fitur admin yang di menu fitur admin ini bisa melakukan proses CRUD (Create, Read, Update, Delete) data kamar, daftar reservasi, daftar akun, serta logout.
@@ -111,6 +115,13 @@ Pada opsi 8 ini tamu bisa melakukan Log Out dari program atau mulai kembali.
 
 
 # Tampilan Mode Update Kamar pada Admin
+![Screenshot (194)](https://github.com/user-attachments/assets/3d1c700f-72bc-404b-bc36-4cd57fe1a332)
+
+Admin bisa melakukan update kamar dengan memilih lantai kamar, masukkan nomor kamar yang ingin diubah, masukkan nomor baru, masukkan tipe kamar baru, dan harga per malam. Nomor kamar yang ingin diubah harus tersedia dalam daftar kamar.
+
+* Jika nomor kamar yang dimasukkan tidak ditemukan.
+  
+![Screenshot (191)](https://github.com/user-attachments/assets/b9dad1f3-cf05-40a7-942a-0082d89c0e37)
 
 
 # Tampilan Mode Remove (Hapus Kamar) pada Admin
@@ -120,7 +131,15 @@ Pada opsi ini, admin bisa menghapus kamar dari daftar kamar dengan memasukkan no
 
 ![Screenshot (183)](https://github.com/user-attachments/assets/eee18b77-1b04-44a0-b138-905a90a0bee4)
 
-Ketik 1 untuk melihat daftar kamar setelah nomor kamar tersebut dihapus.
+Untuk melihat daftar kamar setelah nomor kamar tersebut dihapus yaitu dengan ketik 1.
+
+# Tampilan Mode Read (Daftar Reservasi)
+
+Pada opsi ini admin bisa melihat daftar-daftar reservasi dari para tamu pengunjung hotel.
+
+# Tampilan Mode Read (Daftar Akun)
+
+Pada opsi 6 ini, admin dapat melihat daftar-daftar akun dari para tamu pengunjung hotel. 
 
 # Tampilan Mode Log Out
 ![Screenshot (184)](https://github.com/user-attachments/assets/bad2ad02-edc6-4b3a-a566-ad82323c5d46)
@@ -134,4 +153,5 @@ Pada opsi 7 ini admin bisa keluar dari program atau mulai kembali
 
 * Tampilan jika mulai kembali
   Jika mulai kembali, maka kembali diminta untuk memasukkan Username dan PIN.
-![Screenshot (182)](https://github.com/user-attachments/assets/cc664e52-6279-4ae2-b622-bbdc7b478dff)
+
+![Screenshot (186)](https://github.com/user-attachments/assets/a1c69469-ad00-4bd7-b0b3-26b57178237c)
