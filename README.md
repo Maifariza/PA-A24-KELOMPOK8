@@ -25,7 +25,7 @@ Pada awal program, akan ditampilkan menu utama dengan melakukan Login atau Sign 
 
    User yang salah memasukkan Username dan PIN diminta menginputkan data kembali.
    
-3. Sign Up (jika belum punya akun)
+2. Sign Up (jika belum punya akun)
    
    Jika user belum memiliki akun maka user menginputkan 2 untuk masuk ke menu sign up.
 
