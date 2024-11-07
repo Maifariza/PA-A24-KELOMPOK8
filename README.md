@@ -56,7 +56,7 @@ Setelah proses sign up berhasil dilakukan, dengan otomatis akan menampilkan outp
 # Jika memilih opsi 1 maka akan diarahkan ke Daftar Kamar
 ![Screenshot (170)](https://github.com/user-attachments/assets/17749cb0-1e85-4508-bfb1-8180a3b91a5c)
 
-Pada opsi 1, tamu bisa melihat daftar kamar yang ada di hotel dengan keterangan Nomor kamar, Tipe, Fasilitas, serta Harga/Malam nya.
+Setelah masuk ke menu fitur tamu, tamu dapat ketik opsi 1. Pada opsi 1, tamu bisa melihat daftar kamar yang ada di hotel dengan keterangan Nomor kamar, Tipe, Fasilitas, serta Harga/Malam nya.
 
 ![Screenshot (202)](https://github.com/user-attachments/assets/d03a3149-d54c-47e5-912a-1a720e70e77a)
 
