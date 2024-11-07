@@ -15,17 +15,16 @@ Pada awal program, akan ditampilkan menu utama dengan melakukan Login atau Sign 
 1. Login (jika sudah punya akun)
    
    Ketika user telah memiliki akun atau telah memasukkan Username dan PIN yang disimpan dalam database maka user ketik 1.
-
-
+   
    * Tampilan jika user salah menginputkan Username.
      
-   ![Screenshot (181)](https://github.com/user-attachments/assets/0872ed26-68fb-44f8-abfd-a8ced5669e9f)
+![Screenshot (197)](https://github.com/user-attachments/assets/d6cdcb06-96ce-4115-ac00-74786f450357)
 
-   User diminta menginputkan Username kembali
+   User yang salah memasukkan Username dan PIN diminta menginputkan data kembali.
    
-2. Sign Up (jika belum punya akun)
+3. Sign Up (jika belum punya akun)
    
-   Jika user belum memiliki akun maka user menginputkan 2 dan masuk ke menu sign up.
+   Jika user belum memiliki akun maka user menginputkan 2 untuk masuk ke menu sign up.
 
 # Jika Masuk dengan Username dan PIN "Admin" (Menu Fitur Admin)
 
