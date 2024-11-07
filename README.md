@@ -93,7 +93,7 @@ Akan menampilkan output bahwa jumlah top up harus lebih dari 0 dan setelah itu d
 
 ![Screenshot (205)](https://github.com/user-attachments/assets/229e9718-be97-4892-8661-2c0b89123f36)
 
-Pada opsi ini tamu akan melihat informasi tentang akun mereka seperti Nama Panjang, Username, PIN, serta No.Hp yang terismpan.
+Pada opsi ini tamu akan melihat informasi tentang akun mereka yang telah disimpan dalam database seperti Nama Panjang, Username, PIN, serta No.Hp.
 
 # Jika memilih opsi 8 maka akan diarahkan ke Log Out
 ![Screenshot (189)](https://github.com/user-attachments/assets/1030ab3a-f98f-48eb-985e-3c4ca0c88185)
@@ -117,16 +117,20 @@ Pada opsi 8 ini tamu bisa melakukan Log Out dari program atau mulai kembali.
 
 ![Screenshot (207)](https://github.com/user-attachments/assets/ea744330-5594-43ab-ab72-0a464abf8459)
 
+Pada opsi ini admin bisa melakukan proses menyusun data atau elemen-elemen dalam suatu urutan tertentu. Berdasarkan gambar diatas seperti nomor, nama panjang, username, PIN, No. Hp, dan saldo E Money. , abjad, atau karakteristik lainnya. Sorting dan searching ini sangat berguna dalam berbagai aplikasi, mulai dari penyimpanan data, pemrosesan informasi, hingga optimasi pencarian.
+
 * Tampilan Mode Sorting
 
-![Screenshot (210)](https://github.com/user-attachments/assets/fde9b712-b24d-4751-8e63-1f1d70deb061)
+Menampilkan data yang telah disorting.
+![Screenshot (211)](https://github.com/user-attachments/assets/4f4cf06b-8977-46c3-ad7f-b84a3eb681ee)
+
 
 
 *Tampilaan Mode Searching
 
-![Screenshot (210)](https://github.com/user-attachments/assets/685d68b2-d0c5-4e78-b2ad-6ebcfcdcd063)
-
 Admin bisa melakukan searching akun dari tamu dengan memasukkan username yang ingin dicari. Setelah itu program menampilkan informasi akun yang dicari.
+
+![Screenshot (210)](https://github.com/user-attachments/assets/685d68b2-d0c5-4e78-b2ad-6ebcfcdcd063)
 
 # Tampilan Mode Update Kamar pada Admin
 ![Screenshot (194)](https://github.com/user-attachments/assets/3d1c700f-72bc-404b-bc36-4cd57fe1a332)
@@ -161,11 +165,14 @@ Pada opsi 6 ini, admin dapat melihat daftar-daftar akun dari para tamu pengunjun
 Pada opsi 7 ini admin bisa keluar dari program atau mulai kembali
 
 * Tampilan jika keluar dari program
+  
   Jika memilih keluar dari program, maka menampilkan output seperti dibawah ini.
   
-![Screenshot (185)](https://github.com/user-attachments/assets/68494ce7-4a46-45aa-be4e-c84f76930a66)
+![Screenshot (190)](https://github.com/user-attachments/assets/a38e7adb-57ac-4358-82ae-cf3eb97bdaba)
+
 
 * Tampilan jika mulai kembali
-  Jika mulai kembali, maka kembali diminta untuk memasukkan Username dan PIN.
+  
+  Jika mulai kembali, maka admin kembali ke menu login untuk memasukkan Username dan PIN kembali. 
 
 ![Screenshot (186)](https://github.com/user-attachments/assets/a1c69469-ad00-4bd7-b0b3-26b57178237c)
