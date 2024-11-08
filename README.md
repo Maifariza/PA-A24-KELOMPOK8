@@ -24,7 +24,7 @@ Pada awal program, akan ditampilkan menu utama dengan melakukan Login atau Sign 
      
 ![Screenshot (197)](https://github.com/user-attachments/assets/d6cdcb06-96ce-4115-ac00-74786f450357)
 
-   User yang salah memasukkan Username dan PIN diminta menginputkan data kembali.
+   User yang salah memasukkan Username dan PIN, diminta untuk menginputkan data kembali.
    
 2. Sign Up (jika belum punya akun)
    
