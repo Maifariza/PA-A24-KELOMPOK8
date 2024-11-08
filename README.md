@@ -57,16 +57,31 @@ Setelah proses sign up berhasil dilakukan, dengan otomatis akan menampilkan outp
 # Jika memilih opsi 1 maka akan diarahkan ke Daftar Kamar
 ![Screenshot (170)](https://github.com/user-attachments/assets/17749cb0-1e85-4508-bfb1-8180a3b91a5c)
 
-Setelah masuk ke menu fitur tamu, tamu dapat ketik opsi 1. Pada opsi 1, tamu bisa melihat daftar kamar yang ada di hotel dengan keterangan Nomor kamar, Tipe, Fasilitas, serta Harga/Malam nya.
+Setelah masuk ke menu fitur tamu, tamu dapat ketik opsi 1. Pada opsi 1, tamu bisa melihat daftar kamar yang ada di hotel dengan keterangan Nomor kamar, Tipe, Fasilitas, serta Harga/Malam nya. Disaat daftar kamar sudah muncul dalam output maka dengan otomatis akan looping ke menu fitur tamu
 
 ![Screenshot (202)](https://github.com/user-attachments/assets/d03a3149-d54c-47e5-912a-1a720e70e77a)
 
 
 # Jika memilih opsi 2 maka akan diarahkan ke Buat Reservasi
-Saat tamu ingin membuat reservasi kamar
+Opsi ini dibuat untuk para pengunjung Hotel Jatra Balikpapan untuk melakukan reservasi kamar. 
+Usert melihat daftar kamar terlebih dahulu untuk menginputkan nomor kamar, tanggal reservasi dan waktu reservasi kamar. Tampilannya seperti pada gambar dibawah ini.
+
+
+* Jika memasukkan nomor kamar yang tidak tersedia di daftar kamar
+  
+![Screenshot (220)](https://github.com/user-attachments/assets/0ff0cd23-8619-4d64-b13c-6751ca9ff67d)
+
+* Jika memasukkan nomor kamar yang telah tersedia di daftar kamar
+  
 
 # Jika memilih opsi 3 maka akan diarahkan ke Daftar Reservasi
+Opsi ini dibuat untuk tamu yang sudah melakukan reservasi kamar dan ingin mengecek apakah sudah ter-reservasi atau belum. 
 
+* Jika user telah berhasil melakukan reservasi dan ingin mengecek reservasi kamarnya maka tampilan seperti pada gambar di bawah ini
+
+  Telah ditampilkan pada tabel diatas bahwa user sudah melakukan reservasi kamar di Hotel Jatra Balikpapan.
+
+  * Jika kebalikannya
 
 # Jika memilih opsi 4 maka akan diarahkan ke Cek Saldo E Money
 ![Screenshot (174)](https://github.com/user-attachments/assets/3aa5b9eb-c767-4068-a3ce-29588803809d)
@@ -122,7 +137,11 @@ Pada opsi 8 ini tamu bisa melakukan Log Out dari program atau mulai kembali.
 ![Screenshot (186)](https://github.com/user-attachments/assets/93df42e8-9423-4c23-8510-db3652cd6194)
 
 # Tampilan Mode Create (Tambah Kamar) Pada Admin
- 
+ Jika admin ingin menambah kamar hotel, input angka 2.
+
+ Setelah itu admin diminta memasukkan nomor lantai, nomor kamar, tipe kamar, fasilitas kamar, dan harga per malam sesuai keinginan admin. 
+
+Proses tambah kamar berhasil dilakukan dan masuk ke daftar kamar Hotel Jatra Balikpapan.
 
 # Tampilan Mode Read pada Admin (Insert Fitur Sorting dan Searching)
 
@@ -166,7 +185,7 @@ Nomor kamar sudah tidak ada dalam daftar kamar.
 
 # Tampilan Mode Read (Daftar Reservasi)
 
-Pada opsi ini admin bisa melihat daftar-daftar reservasi dari para tamu pengunjung hotel.
+Opsi ini dibuat untuk tamu yang sudah melakukan reservasi mengecek kembali apakah sudah reservasi atau belum. 
 
 # Tampilan Mode Read (Daftar Akun)
 
@@ -177,7 +196,8 @@ Pada opsi 6 ini, admin dapat melihat daftar-daftar akun dari para tamu pengunjun
 # Tampilan Mode Log Out
 ![Screenshot (184)](https://github.com/user-attachments/assets/bad2ad02-edc6-4b3a-a566-ad82323c5d46)
 
-Pada opsi 7 ini admin bisa keluar dari program atau mulai kembali
+Jika admin cukup menggunakan fiturnya, tamu bisa memilih opsi 7 yaitu Keluar atau Mulai ke Mode Login. Disaat memilih admin akan diberikan dua opsi yaitu
+Keluar yang bisa diartikan langsung keluar exit dari program dan mulai ke Mode Login yang otomatis ketika admin input "Mulai", tamu akan diarahkan ke Mode Login lagi.
 
 * Tampilan jika keluar dari program
   
