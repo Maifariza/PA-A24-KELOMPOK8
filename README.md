@@ -17,7 +17,7 @@ Sistem Informasi-A 2024
 
 Pada awal program, akan ditampilkan menu utama dengan melakukan Login atau Sign Up terlebih dahulu.
 1. Login (jika sudah punya akun)
-   
+  
    Ketika user telah memiliki akun atau telah memasukkan Username dan PIN yang disimpan dalam database maka user ketik 1.
    
    * Tampilan jika user salah menginputkan Username.
