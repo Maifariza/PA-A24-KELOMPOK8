@@ -85,9 +85,11 @@ Akan menampilkan output bahwa jumlah top up harus lebih dari 0 dan setelah itu d
   Nomor kamar sudah tidak ada dalam daftar kamar
 ![Screenshot (176)](https://github.com/user-attachments/assets/68001e60-f4f5-420b-ae0d-bed428be6798)
 
+Setelah transaksi Top Up saldo berhasil maka user ditampilkan invoice
 
 # Jika memilih opsi 6 maka akan diarahkan ke Update Akun
 
+Tamu juga bisa meng-Update akun yang mereka punya dengan mengubah Username, PIN, ataupun No. Hp yang baru.
 
 # Jika memilih opsi 7 maka akan diarahkan ke Cek Informasi Akun
 
