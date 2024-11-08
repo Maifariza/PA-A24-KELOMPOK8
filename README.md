@@ -9,7 +9,8 @@ Sistem Informasi-A 2024
 3. Maifariza Aulia Dyas (2409116032)
 
 # Flowchart
-![PA (1)](https://github.com/user-attachments/assets/a2417071-8c85-41b1-b182-634d1240e54c)
+
+![PA (2)](https://github.com/user-attachments/assets/3631bc1c-0490-4cb3-8415-7bc711b547d4)
 
 # Menu Login atau Sign Up
 ![Screenshot (164)](https://github.com/user-attachments/assets/30df4070-5d49-42b0-9a7f-c556b166da81)
