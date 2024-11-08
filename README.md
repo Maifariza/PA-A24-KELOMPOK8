@@ -9,7 +9,7 @@ Sistem Informasi-A 2024
 3. Maifariza Aulia Dyas (2409116032)
 
 # Flowchart
-
+![PA (1)](https://github.com/user-attachments/assets/a2417071-8c85-41b1-b182-634d1240e54c)
 
 # Menu Login atau Sign Up
 ![Screenshot (164)](https://github.com/user-attachments/assets/30df4070-5d49-42b0-9a7f-c556b166da81)
@@ -82,10 +82,11 @@ Akan menampilkan output bahwa jumlah top up harus lebih dari 0 dan setelah itu d
 ![Screenshot (187)](https://github.com/user-attachments/assets/2155bc43-2136-4208-aa20-28adf39497ca)
 
 * Ketik 4 jika ingin mengecek saldo E Money tamu setelah nominal tadi ditambahkan
-  Nomor kamar sudah tidak ada dalam daftar kamar
+  
 ![Screenshot (176)](https://github.com/user-attachments/assets/68001e60-f4f5-420b-ae0d-bed428be6798)
 
-Setelah transaksi Top Up saldo berhasil maka user ditampilkan invoice
+* Setelah transaksi Top Up saldo berhasil maka user ditampilkan invoice
+
 
 # Jika memilih opsi 6 maka akan diarahkan ke Update Akun
 
@@ -155,9 +156,12 @@ Admin bisa melakukan update kamar dengan memilih lantai kamar, masukkan nomor ka
 
 Pada opsi ini, admin bisa menghapus kamar dari daftar kamar dengan memasukkan nomor kamar yang ingin dihapus.
 
+* Untuk melihat daftar kamar setelah nomor kamar tersebut dihapus yaitu dengan ketik 1.
+  
 ![Screenshot (183)](https://github.com/user-attachments/assets/eee18b77-1b04-44a0-b138-905a90a0bee4)
 
-Untuk melihat daftar kamar setelah nomor kamar tersebut dihapus yaitu dengan ketik 1.
+Nomor kamar sudah tidak ada dalam daftar kamar.
+
 
 # Tampilan Mode Read (Daftar Reservasi)
 
