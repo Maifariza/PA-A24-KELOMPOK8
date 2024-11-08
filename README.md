@@ -156,7 +156,7 @@ Admin bisa melakukan update kamar dengan memilih lantai kamar, masukkan nomor ka
 ![Screenshot (182)](https://github.com/user-attachments/assets/333d1860-eef6-4025-a6c7-e79c599ce749)
 
 Pada opsi ini, admin bisa menghapus kamar dari daftar kamar dengan memasukkan nomor kamar yang ingin dihapus.
-
+ 
 * Untuk melihat daftar kamar setelah nomor kamar tersebut dihapus yaitu dengan ketik 1.
   
 ![Screenshot (183)](https://github.com/user-attachments/assets/eee18b77-1b04-44a0-b138-905a90a0bee4)
