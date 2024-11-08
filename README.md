@@ -62,7 +62,7 @@ Setelah masuk ke menu fitur tamu, tamu dapat ketik opsi 1. Pada opsi 1, tamu bis
 
 
 # Jika memilih opsi 2 maka akan diarahkan ke Buat Reservasi
-
+Saat tamu ingin membuat reservasi kamar
 
 # Jika memilih opsi 3 maka akan diarahkan ke Daftar Reservasi
 
@@ -89,7 +89,14 @@ Setelah transaksi Top Up saldo berhasil maka user ditampilkan invoice
 
 # Jika memilih opsi 6 maka akan diarahkan ke Update Akun
 
-Tamu juga bisa meng-Update akun yang mereka punya dengan mengubah Username, PIN, ataupun No. Hp yang baru.
+![Screenshot (214)](https://github.com/user-attachments/assets/30547465-f37f-4400-af45-e416e30f0043)
+
+Tamu juga bisa meng-Update akun yang mereka punya dengan mengubah Username, PIN, ataupun No. Hp yang baru. Pada gambar diatas, user ingin mengubah PIN lama dengan memasukkan PIN nya yang baru.
+
+* Ketik 7 untuk mengecek informasi akun baru setelah di update.
+  
+![Screenshot (215)](https://github.com/user-attachments/assets/5883373e-128a-4791-9b9a-8dd7a46133c3)
+
 
 # Jika memilih opsi 7 maka akan diarahkan ke Cek Informasi Akun
 
@@ -124,13 +131,12 @@ Pada opsi ini admin bisa melakukan proses menyusun data atau elemen-elemen dalam
 * Tampilan Mode Sorting
 
 Menampilkan data yang telah disorting.
+
 ![Screenshot (211)](https://github.com/user-attachments/assets/4f4cf06b-8977-46c3-ad7f-b84a3eb681ee)
 
+*Tampilan Mode Searching
 
-
-*Tampilaan Mode Searching
-
-Admin bisa melakukan searching akun dari tamu dengan memasukkan username yang ingin dicari. Setelah itu program menampilkan informasi akun yang dicari.
+Admin bisa melakukan searching akun dari tamu dengan memasukkan username yang ingin dicari. Setelah itu program akan menampilkan informasi akun yang dicari.
 
 ![Screenshot (210)](https://github.com/user-attachments/assets/685d68b2-d0c5-4e78-b2ad-6ebcfcdcd063)
 
@@ -158,6 +164,8 @@ Untuk melihat daftar kamar setelah nomor kamar tersebut dihapus yaitu dengan ket
 Pada opsi ini admin bisa melihat daftar-daftar reservasi dari para tamu pengunjung hotel.
 
 # Tampilan Mode Read (Daftar Akun)
+
+![Screenshot (218)](https://github.com/user-attachments/assets/b2105f31-15c4-4b09-96ba-7a918453a523)
 
 Pada opsi 6 ini, admin dapat melihat daftar-daftar akun dari para tamu pengunjung hotel. 
 
